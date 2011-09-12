@@ -1,1 +1,1 @@
-java -jar INTERNET_CONTROL.jar "http://www.google.com" "NOMBRE_CONEXION" "USUARIO" "PASSWORD"
+java -jar INTERNET_CONTROL.jar "http://www.google.com" "NOMBRE_CONEXION" "USUARIO" "PASSWORD" "TIEMPO_REVISION"
